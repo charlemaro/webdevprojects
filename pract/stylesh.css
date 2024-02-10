@@ -1,0 +1,39 @@
+.bg-blue{
+    background-color: rgb(71, 710, 137);
+}
+.bg-green{
+    background-color: rgb(100, 196, 100);
+}
+.btn{
+    width: 5rem;
+    height: 2.5rem;
+    background-color:black;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.2rem 0.3rem 1rem;
+    margin: 1rem;
+}
+.btn:hover{
+    box-shadow: 0.1rem 0.2rem 1rem;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.vh-100{
+    padding: 2rem;
+    height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+.bg-blue{
+    background-color: blue;
+}
+.bg-green{
+    background-color: green;
+
+}
